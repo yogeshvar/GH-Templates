@@ -19,5 +19,5 @@ We have created a dataset using GitHub API, please refer [`data-creation.ipynb`]
 ### Research Questions
 
 1. [RQ1](./code/RQ1.ipynb): What are the common types of GitHub issue and pull request templates used in the OSS Projects?
-2. [RQ2]](./code/RQ2.ipynb): What are the contents/taxonomy of GitHub templates?
+2. [RQ2](./code/RQ2.ipynb): What are the contents/taxonomy of GitHub templates?
 3. [RQ3](./code/RQ3.ipynb): How do the contents of GitHub templates differ across programming languages?
